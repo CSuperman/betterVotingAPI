@@ -1,0 +1,2 @@
+# betterVotingAPI
+A voting API 
